@@ -1,11 +1,22 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+# Nenoum, a forum written in Laravel
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+<br>
+
+# Screenshot
+<img src="https://i.imgur.com/cNP1enS.png" alt="" srcset="">
+     
+     
+# How to install
+ - Make a DB table called forum_laravel
+ - Rename the .env.example file to .env
+ - Update the DB info inside of .env
+ - Seed the database using the command: php artisan db:seed (It will add premade accounts, posts, replies, likes)
+ 
+You can use a premade account or you can create a new one yourself:
+
+email: nenad@gmail.com
+password: 1234qwer
+
 
 ## About Laravel
 
