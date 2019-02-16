@@ -1,4 +1,4 @@
-# Nenoum, a forum written in Laravel
+# Nenoum, a forum written in Laravel and MySQL
 
 <br>
 
